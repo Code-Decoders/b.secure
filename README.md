@@ -1,12 +1,7 @@
 # B. Secure
 
-## Problems with the current password managers:
-Single point of failure: if the server/database goes down, there goes your passwords
-
-Trust issue: can you really trust that these closed-source softwares will not just read your passwords?
-
-## B. Secure solves all the mentioned problems:
-The passwords are stored on the decentralized database that is the Polygon blockchain, hence it will not go down easily
+> "B. Secure: A Decentralized and Encrypted Password Manager"
+> "B. Secure: The Next Generation Password Manager for a More Secure Digital Future" - This title positions B. Secure as a cutting-edge solution that is paving the way for a more secure digital future.
 
 The passwords are encrypted by your private key which belongs to only you. You are the only one who can see your saved passwords.
 
