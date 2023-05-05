@@ -3,7 +3,6 @@
 > "B. Secure: A Decentralized and Encrypted Password Manager"
 > "B. Secure: The Next Generation Password Manager for a More Secure Digital Future" - This title positions B. Secure as a cutting-edge solution that is paving the way for a more secure digital future.
 
-The passwords are encrypted by your private key which belongs to only you. You are the only one who can see your saved passwords.
 
 ## Inspiration
 
