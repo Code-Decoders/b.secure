@@ -2,7 +2,7 @@
 
 > "B. Secure: A Decentralized and Encrypted Password Manager"
 
-> "B. Secure: The Next Generation Password Manager for a More Secure Digital Future" - This title positions B. Secure as a cutting-edge solution that is paving the way for a more secure digital future.
+> "B. Secure: The Next Generation Password Manager for a More Secure Digital Future"
 
 
 ## Inspiration
