@@ -25,7 +25,7 @@
 
 Youtube Video Demo
 
-[![Youtube Video](https://img.youtube.com/vi/obZrWSzVHjc/sddefault.jpg)](https://www.youtube.com/watch?v=obZrWSzVHjc&ab_channel=CodeDecoders)
+[![Youtube Video](https://img.youtube.com/vi/obZrWSzVHjc/sddefault.jpg)](https://youtu.be/obZrWSzVHjc)
 
 
 ## Tech Stack
